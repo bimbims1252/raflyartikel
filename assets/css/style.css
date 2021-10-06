@@ -52,6 +52,9 @@ a {
   text-align: center;
   padding: 1em 0.8em;
 }
+.card-content .card-header .card-text {
+  text-align: justify;
+}
 
 .sosmed .socmed1,
 .socmed2 {
