@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family:cursive;
+  font-family: cursive;
 }
 ::-webkit-scrollbar {
   width: 0;
@@ -44,6 +44,9 @@ a {
   padding: 0.5em;
   margin: 0;
   background: rgba(241, 241, 241, 0.2);
+}
+.p-profile {
+  text-indent: 2em;
 }
 
 .card-content .card-header {
@@ -112,6 +115,6 @@ a {
 }
 
 /*  */
-footer{
-  color:white;
+footer {
+  color: white;
 }

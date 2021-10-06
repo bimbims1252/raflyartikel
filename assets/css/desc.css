@@ -4,10 +4,16 @@
   font-weight: 500;
 }
 
-.card-text-rest {
+.card-artikel p {
   text-align: justify;
 }
+.paragraph {
+  text-indent: 2em;
+}
 
+.img-ir {
+  margin: 0 auto;
+}
 footer {
   color: white;
 }
