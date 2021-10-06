@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body { 
+    padding-top: 50px;
+    background-image: linear-gradient(-10deg, #ff2846 0%, #6944ff 100%);
+}
+  a i {
+      align-items: center;
+      justify-content: center;
+  }
+  .sosmed a i {
+    background-image: linear-gradient(-20deg, #ff2846 0%, #6944ff 100%);
+    position: relative;
+    width: 30px;
+    height: 30px;
+    justify-content: center;
+    border-radius: 20px;
+    align-items: center;
+    display: inline-flex;
+    color: white;
+
+}
