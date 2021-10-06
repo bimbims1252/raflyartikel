@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family:cursive;
 }
 ::-webkit-scrollbar {
   width: 0;
@@ -111,3 +112,6 @@ a {
 }
 
 /*  */
+footer{
+  color:white;
+}
